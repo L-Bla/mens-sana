@@ -26,7 +26,7 @@
 
 - Link to Assignment 1: [**Assignment 1**](assignments/Assignment1) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](assignments/Assignment2) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+- Link to Assignment 3 (Deployed webapp): [**https://mens-sana.vercel.app/**](https://mens-sana.vercel.app/) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
