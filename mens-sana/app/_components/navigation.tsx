@@ -11,6 +11,7 @@ type Page = {
 const pages: Page[] = [
     {title: "Home", path: "/"},
     {title: "Blog", path: "/blog"},
+    {title: "Smart Scheduler", path: "/scheduler"},
     {title: "Analytics", path: "/analytics"},
     {title: "Settings", path: "/settings"}
 ]
